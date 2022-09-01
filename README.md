@@ -1,1 +1,1 @@
-# library
+This is a challenge project that deploys a python application, simulating a libary book check-in/check-out automation. Terraform is used to create the entire infrastructure: containers - github repo/branch - EC2 - security group.  
